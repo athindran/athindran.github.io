@@ -9,36 +9,33 @@ I am Athindran R, a project associate at RISE lab, Indian Institute of Technolog
 | MS in Electrical and Computer Engineering | University of Illinois at Urbana-Champaign |3.95/4|
 
 ## Publications
+-List
 
+1. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, Location Hash: Private Proximity Detection Using Partial GPS Information, IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link](http://ieeexplore.ieee.org/document/7855590/)
 
-### Markdown
+2. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, GPS Confidential: Enabling Proximity Detection While Preserving Location Privacy, Inside GNSS Magazine, September-October 2015. [Link](http://www.insidegnss.com/node/4629)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Athindran Ramesh Kumar. Direct position tracking in GPS using vector correlator. Thesis submitted in partial fulfillment
+of the MS degree at the University of Illinois at Urbana-Champaign. 2015. [Link](https://www.ideals.illinois.edu/bitstream/handle/2142/88087/RAMESHKUMAR-THESIS-2015.pdf?sequence=1)
 
-```markdown
-Syntax highlighted code block
+4. Athindran Ramesh Kumar, Liang Heng and Grace Xingxin Gao , GPS Privacy: Enabling Proximity-based Services While Keeping GPS Locations Private, in Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2014), Tampa FL, Sep 2014.[Link](http://gracegao.ae.illinois.edu/publications/conference/2014_ION%20GNSS_privacy_Athindran.pdf) 
 
-# Header 1
-## Header 2
-### Header 3
+# Work Experience
+-List
 
-- Bulleted
-- List
+1. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - Present
+Currently, I am working on frequency assignment techniques and path loss models for battlefields.
+2. Tech Intern, Google StreetView, May-August 2014
+I worked on using carrier phase measurements from GPS to achieve centimeter accurate positioning of StreetView cars.
 
-1. Numbered
-2. List
+## Extra-Curricular Activities
 
-**Bold** and _Italic_ and `Code` text
+Back in my undergraduate days, I was crazy about tennis and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also part of the gold medal winning team of Tapti hostel in Schroeter 2012.
+I was also into app development in my undergraduate days. I helped build android apps for the institute technical and cultural festivals, Shaastra and Saarang.
+I am big fan of all kinds of music and listen to all kinds of music from all different eras.
 
-[Link](url) and ![Image](src)
-```
+## CV
+CV coming up soon
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/athindran/athindran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+You can reach me through email at r[dot]athindran[at]gmail[dot]com. Or you can call me at +919884489925.
