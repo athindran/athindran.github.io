@@ -6,7 +6,7 @@ I am Athindran R, a project associate at RISE lab, Indian Institute of Technolog
 | Degree | University | CGPA |
 | --- | --- | --- |
 | B.Tech in Electrical Engineering | Indian Institute of Technology Madras | 9.27/10 |
-| MS in Electrical and Computer Engineering | University of Illinois at Urbana-Champaign |3.95/4|
+| MS in Electrical and Computer Engineering | University of Illinois at Urbana-Champaign | 3.95/4 |
 
 ## Publications
 
