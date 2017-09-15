@@ -23,8 +23,12 @@ of the MS degree at the University of Illinois at Urbana-Champaign. 2015. [Link]
 ## Work Experience
 
 1. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - Present
+
+
 Currently, I am working on frequency assignment techniques and path loss models for battlefields.
 2. Tech Intern, Google StreetView, May-August 2014
+
+
 I worked on using carrier phase measurements from GPS to achieve centimeter accurate positioning of StreetView cars.
 
 ## Extra-Curricular Activities
