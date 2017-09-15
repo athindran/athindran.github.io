@@ -19,7 +19,7 @@ of the MS degree at the University of Illinois at Urbana-Champaign. 2015. [Link]
 
 4. Athindran Ramesh Kumar, Liang Heng and Grace Xingxin Gao , GPS Privacy: Enabling Proximity-based Services While Keeping GPS Locations Private, in Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2014), Tampa FL, Sep 2014.[Link](http://gracegao.ae.illinois.edu/publications/conference/2014_ION%20GNSS_privacy_Athindran.pdf) 
 
-# Work Experience
+## Work Experience
 
 1. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - Present
 Currently, I am working on frequency assignment techniques and path loss models for battlefields.
