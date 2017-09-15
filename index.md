@@ -1,6 +1,12 @@
 ## Welcome
 
-I am Athindran R, a project associate at RISE lab, Indian Institute of Technology, Madras.
+I am Athindran R, a project associate at RISE lab, Indian Institute of Technology, Madras. I am also concurrently working at the Center of Excellence in Wireless Technology, IIT Madras. My current project in RISE lab is focused on optimized and energy efficient deep learning techniques. Currently, my focus is primarily on achieving computation and energy savings in multi-object tracking in videos.
+
+## Education
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 ### Markdown
 
