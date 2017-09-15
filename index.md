@@ -9,7 +9,6 @@ I am Athindran R, a project associate at RISE lab, Indian Institute of Technolog
 | MS in Electrical and Computer Engineering | University of Illinois at Urbana-Champaign |3.95/4|
 
 ## Publications
--List
 
 1. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, Location Hash: Private Proximity Detection Using Partial GPS Information, IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link](http://ieeexplore.ieee.org/document/7855590/)
 
@@ -21,7 +20,6 @@ of the MS degree at the University of Illinois at Urbana-Champaign. 2015. [Link]
 4. Athindran Ramesh Kumar, Liang Heng and Grace Xingxin Gao , GPS Privacy: Enabling Proximity-based Services While Keeping GPS Locations Private, in Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2014), Tampa FL, Sep 2014.[Link](http://gracegao.ae.illinois.edu/publications/conference/2014_ION%20GNSS_privacy_Athindran.pdf) 
 
 # Work Experience
--List
 
 1. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - Present
 Currently, I am working on frequency assignment techniques and path loss models for battlefields.
@@ -31,7 +29,11 @@ I worked on using carrier phase measurements from GPS to achieve centimeter accu
 ## Extra-Curricular Activities
 
 Back in my undergraduate days, I was crazy about tennis and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also part of the gold medal winning team of Tapti hostel in Schroeter 2012.
+
+
 I was also into app development in my undergraduate days. I helped build android apps for the institute technical and cultural festivals, Shaastra and Saarang.
+
+
 I am big fan of all kinds of music and listen to all kinds of music from all different eras.
 
 ## CV
