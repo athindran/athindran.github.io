@@ -26,6 +26,8 @@ of the MS degree at the University of Illinois at Urbana-Champaign. 2015. [Link]
 
 
 Currently, I am working on frequency assignment techniques and path loss models for battlefields.
+
+
 2. Tech Intern, Google StreetView, May-August 2014
 
 
