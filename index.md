@@ -1,6 +1,6 @@
 ## Welcome
 
-I am Athindran R, a project associate at RISE lab, Indian Institute of Technology, Madras. I am also concurrently working at the Center of Excellence in Wireless Technology, IIT Madras. My current project in RISE lab is focused on optimized and energy efficient deep learning techniques. Currently, my focus is primarily on achieving computation and energy savings in multi-object tracking in videos.
+I am Athindran R, a project associate at RISE IIL lab, Indian Institute of Technology, Madras. I am also concurrently working at the Center of Excellence in Wireless Technology, IIT Madras. My current project in RISE lab is focused on optimized and energy efficient deep learning techniques. Currently, my focus is primarily on achieving computation and energy savings in multi-object tracking in videos.
 
 ## Education
 
@@ -44,7 +44,7 @@ I was also into app development in my undergraduate days. I helped build android
 I am big fan of all kinds of music and listen to all kinds of music from all different eras.
 
 ## CV
-CV coming up soon
+[pdf](resume_athindran.pdf)
 
 ## Contact
 You can reach me through email at r[dot]athindran[at]gmail[dot]com. Or you can call me at +919884489925.
