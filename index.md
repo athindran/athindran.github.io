@@ -5,10 +5,10 @@ Hi. I am Athindran, a sixth year PhD student in the department of Electrical Eng
 Before this, I was a project associate in RISE (Reconfigurable and Intelligent Systems Engineering) IIL (Interactive Intelligence Laboratory)  under Prof. Balaraman Ravindran with the Computer Science department of the Indian Institute of Technology, Madras. At this time, I also concurrently worked as a research engineer at the Center of Excellence in Wireless Technology, IIT Madras. 
 
 <p align="center">
-<img src="athindran_at_ias_princeton.jpg" width="350" class="center">
+<img src="images/athindran_at_ias_princeton.jpg" width="350" class="center">
 </p>
 
-[ Curriculum Vitae ](Athindran_resume_September10.pdf)
+[ Curriculum Vitae ](PDFs/Athindran_resume_September10.pdf)
 
 [ GitHub Profile ](https://github.com/athindran)
 
@@ -24,11 +24,11 @@ Before this, I was a project associate in RISE (Reconfigurable and Intelligent S
 
 Princeton ECE Pre-FPO on September 11, 2023 (slides not public yet)
 
-[Princeton ORFE Deep Learning Theory Seminar](Deep_learning_seminar_athindran.pdf)
+[Princeton ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)
 
-[ACC 2021](ACC_2021_Athindran.pdf)
+[ACC 2021](PDFs/ACC_2021_Athindran.pdf)
 
-[CISS 2021](CISS_2021_Athindran.pdf)
+[CISS 2021](PDFs/CISS_2021_Athindran.pdf)
 
 ## Journal Papers
 
