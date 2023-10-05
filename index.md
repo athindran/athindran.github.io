@@ -45,19 +45,19 @@ For  full list, visit [Google Scholar](https://scholar.google.com/citations?user
 
 ## Work Experience
 
-1. Software Intern, Control at Aurora Innovation. May - Aug 2022
-
+**Software Intern, Control at Aurora Innovation. May - Aug 2022**
 Implementation of a feature to improve longitudinal control of self-driving trucks
 
-2. Research Intern, Nokia Bell Labs. June - Aug 2021
+
+**Research Intern, Nokia Bell Labs. June - Aug 2021**
 
 Reinforcement learning for a robotic arm
 
-3. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - June 2018
+**Research Engineer, Center of Excellence in Wireless Technology. April 2016 - June 2018**
 
 Frequency assignment techniques and path loss models for rural environments.
 
-4. Tech Intern, Google StreetView, May-August 2014
+**Tech Intern, Google StreetView, May-August 2014**
 
 Using carrier phase measurements from GPS to achieve centimeter accurate positioning of StreetView cars.
 
