@@ -14,11 +14,21 @@ Before this, I was a project associate in RISE (Reconfigurable and Intelligent S
 
 [ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
 
-## Project webpages
+## Project pages
 
 [Fast, smooth and safe](https://sites.google.com/view/fsslcss/home)
 
 [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
+
+## Talks
+
+Pre-FPO on September 11, 2023 (slides not public yet)
+
+[Princeton ORFE Deep Learning Theory Seminar]()
+
+ACC 2021 ()
+
+CISS 2021 ()
 
 ## Journal Papers
 
@@ -43,11 +53,11 @@ Reinforcement learning for a robotic arm
 
 3. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - June 2018
 
-I worked on frequency assignment techniques and path loss models for battlefields.
+Frequency assignment techniques and path loss models for rural environments.
 
 4. Tech Intern, Google StreetView, May-August 2014
 
-I worked on using carrier phase measurements from GPS to achieve centimeter accurate positioning of StreetView cars.
+Using carrier phase measurements from GPS to achieve centimeter accurate positioning of StreetView cars.
 
 ## Extra-Curricular Activities
 
