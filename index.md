@@ -4,9 +4,9 @@ Hi. I am Athindran, a sixth year PhD student in the department of Electrical Eng
 
 Before this, I was a project associate in RISE (Reconfigurable and Intelligent Systems Engineering) IIL (Interactive Intelligence Laboratory)  under Prof. Balaraman Ravindran with the Computer Science department of the Indian Institute of Technology, Madras. At this time, I also concurrently worked as a research engineer at the Center of Excellence in Wireless Technology, IIT Madras. 
 
-<img src="athindran_at_ias_princeton.jpg" width="200">
+<img src="athindran_at_ias_princeton.jpg" width="350" class="center">
 
-[Please find my CV here: ](Athindran_resume_September10.pdf)
+[ Link to CV ](Athindran_resume_September10.pdf)
 
 ## Education
 
