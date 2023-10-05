@@ -6,9 +6,9 @@ Before this, I was a project associate in RISE (Reconfigurable and Intelligent S
 
 <p align="center">
 <img src="athindran_at_ias_princeton.jpg" width="350" class="center">
-  
-[ Link to CV ](Athindran_resume_September10.pdf)
 </p>
+
+[ #Link to CV ](Athindran_resume_September10.pdf)
 
 ## Education
 
