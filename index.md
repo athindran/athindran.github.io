@@ -1,7 +1,7 @@
 ## Welcome
 
 I am Athindran Ramesh Kumar, a sixth-year PhD candidate at Princeton University
-<img src="athindran_at_ias_princeton.jpg" scale="0.7">
+<img src="athindran_at_ias_princeton.jpg" scale="0.5">
 
 ## Education
 
