@@ -6,7 +6,7 @@ Before this, I was a project associate under Prof. Balaraman Ravindran with the 
 <img src="images/athindran_at_ias_princeton.jpg" width="350" class="center">
 </p>
 
-[ Curriculum Vitae ](PDFs/Athindran_resume_September10.pdf)
+[ CV ](PDFs/Athindran_resume_September10.pdf)
 
 [ GitHub Profile ](https://github.com/athindran)
 
