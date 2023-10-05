@@ -1,6 +1,6 @@
 Hi. I am Athindran, a sixth year PhD student in the department of Electrical Engineering at Princeton University. I am advised by Prof. Peter Ramadge. My current research is focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use various tools from classical control to enable these model-based safety filters to satisfy desirable properties such as smooth handover and robustness to imperfect physics-based models.
 
-Before this, I was a project associate in RISE (Reconfigurable and Intelligent Systems Engineering) IIL (Interactive Intelligence Laboratory)  under Prof. Balaraman Ravindran with the Computer Science department of the Indian Institute of Technology, Madras. At this time, I also concurrently worked as a research engineer at the Center of Excellence in Wireless Technology, IIT Madras. 
+Before this, I was a project associate under Prof. Balaraman Ravindran with the Computer Science department of the Indian Institute of Technology, Madras. At this time, I also concurrently worked as a research engineer at the Center of Excellence in Wireless Technology, IIT Madras. 
 
 <p align="center">
 <img src="images/athindran_at_ias_princeton.jpg" width="350" class="center">
@@ -44,6 +44,7 @@ For  full list, visit [Google Scholar](https://scholar.google.com/citations?user
 ## Work Experience
 
 **Software Intern, Control at Aurora Innovation. May - Aug 2022**
+
 Implementation of a feature to improve longitudinal control of self-driving trucks
 
 
@@ -57,7 +58,7 @@ Frequency assignment techniques and path loss models for rural environments.
 
 **Tech Intern, Google StreetView, May-August 2014**
 
-Using carrier phase measurements from GPS to achieve centimeter accurate positioning of StreetView cars.
+Carrier phase positioning with GPS to achieve centimeter accurate positioning of StreetView cars.
 
 ## Extra-Curricular Activities
 
@@ -68,4 +69,4 @@ I was also into app development in my undergraduate days. I helped build android
 I am big fan of all kinds of music and listen to all kinds of music from all different eras.
 
 ## Contact
-You can reach me through email at r[dot]athindran[at]gmail[dot]com. 
+You can reach me through email at r[dot]athindran[at]gmail[dot]com.
