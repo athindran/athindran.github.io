@@ -6,10 +6,8 @@ Before this, I was a project associate under Prof. Balaraman Ravindran with the 
 <img src="images/athindran_at_ias_princeton.jpg" width="350" class="center">
 </p>
 
-[ CV ](PDFs/Athindran_resume_September10.pdf)
-
-[ GitHub Profile ](https://github.com/athindran)
-
+[ CV ](PDFs/Athindran_resume_September10.pdf)                                              
+[ GitHub Profile ](https://github.com/athindran)                                
 [ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
 
 ## Project pages
