@@ -8,36 +8,41 @@ Before this, I was a project associate in RISE (Reconfigurable and Intelligent S
 <img src="athindran_at_ias_princeton.jpg" width="350" class="center">
 </p>
 
-#[ Link to CV ](Athindran_resume_September10.pdf)
+[ Curriculum Vitae ](Athindran_resume_September10.pdf)
+[ GitHub Profile ](https://github.com/athindran)
+[ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
 
-## Education
+## Project webpages
 
-| Degree | University | CGPA |
-| --- | --- | --- |
-| B.Tech in Electrical Engineering | Indian Institute of Technology Madras | 9.27/10 |
-| MS in Electrical and Computer Engineering | University of Illinois at Urbana-Champaign | 3.95/4 |
+[Fast, smooth and safe](https://sites.google.com/view/fsslcss/home)
+[Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
-## Publications
+## Journal Papers
 
-1. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, Location Hash: Private Proximity Detection Using Partial GPS Information, IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link](http://ieeexplore.ieee.org/document/7855590/)
+1. A. R. Kumar, K. -C. Hsu, P. J. Ramadge and J. F. Fisac, "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming," in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3292132 [Link](https://sites.google.com/view/fsslcss/home)
+2. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, Location Hash: Private Proximity Detection Using Partial GPS Information, IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link](http://ieeexplore.ieee.org/document/7855590/)
 
-2. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, GPS Confidential: Enabling Proximity Detection While Preserving Location Privacy, Inside GNSS Magazine, September-October 2015. [Link](http://www.insidegnss.com/node/4629)
+## Conference and Workshop Papers
 
-3. Athindran Ramesh Kumar. Direct position tracking in GPS using vector correlator. Thesis submitted in partial fulfillment
-of the MS degree at the University of Illinois at Urbana-Champaign. 2015. [Link](https://www.ideals.illinois.edu/bitstream/handle/2142/88087/RAMESHKUMAR-THESIS-2015.pdf?sequence=1)
-
-4. Athindran Ramesh Kumar, Liang Heng and Grace Xingxin Gao , GPS Privacy: Enabling Proximity-based Services While Keeping GPS Locations Private, in Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2014), Tampa FL, Sep 2014.[Link](http://gracegao.ae.illinois.edu/publications/conference/2014_ION%20GNSS_privacy_Athindran.pdf) 
+1. Ting-Han Fan, Athindran Ramesh Kumar, Peter J. Ramadge. “Safety Control for Prime Focus Spectrograph.” In 2022 56th Annual Conference on Information Sciences and Systems (CISS) (pp. 269-274). IEEE [Link](https://ieeexplore.ieee.org/document/9751172)
+2. Sulin Liu*, Athindran Ramesh Kumar*, Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge. “ProBF: Probabilistic Safety Certificates with Barrier Functions.” Presented at SafeRL workshop at NeurIPS 2021. [Link](https://sites.google.com/view/probf/home)
+3. Athindran Ramesh Kumar, Balaraman Ravindran, and Anand Raghunathan. “Pack and detect: Fast object detection in videos using region-of-interest packing.” Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3297001.3297020)
 
 ## Work Experience
 
-1. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - Present
+1. Software Intern, Control at Aurora Innovation. May - Aug 2022
 
+Implementation of a feature to improve longitudinal control of self-driving trucks
 
-Currently, I am working on frequency assignment techniques and path loss models for battlefields.
+2. Research Intern, Nokia Bell Labs. June - Aug 2021
 
+Reinforcement learning for a robotic arm
 
-2. Tech Intern, Google StreetView, May-August 2014
+3. Research Engineer, Center of Excellence in Wireless Technology. April 2016 - June 2018
 
+I worked on frequency assignment techniques and path loss models for battlefields.
+
+4. Tech Intern, Google StreetView, May-August 2014
 
 I worked on using carrier phase measurements from GPS to achieve centimeter accurate positioning of StreetView cars.
 
@@ -45,14 +50,9 @@ I worked on using carrier phase measurements from GPS to achieve centimeter accu
 
 Back in my undergraduate days, I was crazy about tennis and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also part of the gold medal winning team of Tapti hostel in Schroeter 2012.
 
-
 I was also into app development in my undergraduate days. I helped build android apps for the institute technical and cultural festivals, Shaastra and Saarang.
-
 
 I am big fan of all kinds of music and listen to all kinds of music from all different eras.
 
-## CV
-[pdf](resume_athindran.pdf)
-
 ## Contact
-You can reach me through email at r[dot]athindran[at]gmail[dot]com. Or you can call me at +919884489925.
+You can reach me through email at r[dot]athindran[at]gmail[dot]com. 
