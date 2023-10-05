@@ -1,7 +1,12 @@
 ## Welcome
 
-I am Athindran Ramesh Kumar, a sixth-year PhD candidate at Princeton University
-<img src="athindran_at_ias_princeton.jpg" scale="0.5">
+Hi. I am Athindran, a sixth year PhD student in the department of Electrical Engineering at Princeton University. I am advised by Prof. Peter Ramadge. My current research is focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use various tools from classical control to enable these model-based safety filters to satisfy desirable properties such as smooth handover and robustness to imperfect physics-based models.
+
+Before this, I was a project associate in RISE (Reconfigurable and Intelligent Systems Engineering) IIL (Interactive Intelligence Laboratory)  under Prof. Balaraman Ravindran with the Computer Science department of the Indian Institute of Technology, Madras. At this time, I also concurrently worked as a research engineer at the Center of Excellence in Wireless Technology, IIT Madras. 
+
+<img src="athindran_at_ias_princeton.jpg" width="200">
+
+[Please find my CV here: ](Athindran_resume_September10.pdf)
 
 ## Education
 
