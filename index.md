@@ -8,7 +8,7 @@ Before this, I was a project associate in RISE (Reconfigurable and Intelligent S
 <img src="athindran_at_ias_princeton.jpg" width="350" class="center">
 </p>
 
-[ #Link to CV ](Athindran_resume_September10.pdf)
+#[ Link to CV ](Athindran_resume_September10.pdf)
 
 ## Education
 
