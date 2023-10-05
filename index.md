@@ -26,9 +26,9 @@ Princeton ECE Pre-FPO on September 11, 2023 (slides not public yet)
 
 [Princeton ORFE Deep Learning Theory Seminar](Deep_learning_seminar_athindran.pdf)
 
-ACC 2021 (ACC_2021_Athindran.pdf)
+[ACC 2021](ACC_2021_Athindran.pdf)
 
-CISS 2021 (CISS_2021_Athindran.pdf)
+[CISS 2021](CISS_2021_Athindran.pdf)
 
 ## Journal Papers
 
