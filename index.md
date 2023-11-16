@@ -16,7 +16,7 @@ Before this, I was a project associate under Prof. Balaraman Ravindran with the 
 
 ## Talks
 
-Princeton ECE Pre-FPO on September 11, 2023 (PDFs/Safety guarantees in control.pptx)
+Princeton ECE Pre-FPO on September 11, 2023 ("PDFs/Safety%20guarantees%20in%20control.pptx)
 
 [Princeton ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)
 
