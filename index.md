@@ -1,4 +1,4 @@
-Hi. I am Athindran, a sixth year PhD candidate in the department of Electrical Engineering at Princeton University. I am advised by Prof. Peter Ramadge. My current research is focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use various tools from classical control to enable these model-based safety filters to satisfy desirable properties such as smooth handover and robustness to imperfect physics-based models.
+Hi. I am Athindran. I was a sixth year PhD student in the department of Electrical Engineering at Princeton University. I am advised by Prof. Peter Ramadge. My current research is focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use various tools from classical control to enable these model-based safety filters to satisfy desirable properties such as smooth handover and robustness to imperfect physics-based models.
 
 Before this, I was a project associate under Prof. Balaraman Ravindran with the Computer Science department of the Indian Institute of Technology, Madras. At this time, I also concurrently worked as a research engineer at the Center of Excellence in Wireless Technology, IIT Madras. 
 
@@ -16,7 +16,7 @@ Before this, I was a project associate under Prof. Balaraman Ravindran with the 
 
 ## Talks
 
-Princeton ECE Pre-FPO on September 11, 2023 (slides not public yet)
+Princeton ECE Pre-FPO on September 11, 2023 (PDFs/Safety\ guarantees\ in \control.pptx)
 
 [Princeton ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)
 
