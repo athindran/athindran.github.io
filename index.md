@@ -70,5 +70,6 @@ I am big fan of all kinds of music and listen to all kinds of music from all dif
 <img src="images/1072102_4548609652140_943758024_o.jpg" width="270" class="center">
 <img src="images/highlight2.jpg" width="270" class="right">
 </p>
+
 ## Contact
 You can reach me through email at r[dot]athindran[at]gmail[dot]com.
