@@ -64,7 +64,7 @@ I was also into app development in my undergraduate days. I helped build android
 
 I am big fan of all kinds of music and listen to all kinds of music from all different eras.
 
-<img src="images/highlight1.jpg" width="350" class="center">
+<img src="images/highlight1.jpg" width="350" class="left">
 <img src="images/highlight2.jpg" width="350" class="center">
 
 ## Contact
