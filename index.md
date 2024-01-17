@@ -56,13 +56,16 @@ Frequency assignment techniques and path loss models for rural environments.
 
 Carrier phase positioning with GPS to achieve centimeter accurate positioning of StreetView cars.
 
-## Extra-Curricular Activities
+## Outside Work
 
 Back in my undergraduate days, I was crazy about tennis and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also part of the gold medal winning team of Tapti hostel in Schroeter 2012.
 
 I was also into app development in my undergraduate days. I helped build android apps for the institute technical and cultural festivals, Shaastra and Saarang.
 
 I am big fan of all kinds of music and listen to all kinds of music from all different eras.
+
+<img src="images/highlight1.jpg" width="350" class="center">
+<img src="images/highlight2.jpg" width="350" class="center">
 
 ## Contact
 You can reach me through email at r[dot]athindran[at]gmail[dot]com.
