@@ -66,9 +66,9 @@ I am big fan of all kinds of music and listen to all kinds of music from all dif
 
 
 <p float="left">
-<img src="images/highlight1.jpg" width="270" class="left">
-<img src="images/1072102_4548609652140_943758024_o.jpg" width="270" class="center">
-<img src="images/highlight2.jpg" width="270" class="right">
+<img src="images/highlight1.jpg" width="240" class="left">
+<img src="images/1072102_4548609652140_943758024_o.jpg" width="240" class="center">
+<img src="images/highlight2.jpg" width="240" class="right">
 </p>
 
 ## Contact
