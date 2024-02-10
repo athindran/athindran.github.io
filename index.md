@@ -3,7 +3,7 @@ Hi. I am Athindran. I was a sixth year PhD student in the department of Electric
 Before this, I was a project associate under Prof. Balaraman Ravindran with the Computer Science department of the Indian Institute of Technology, Madras. At this time, I also concurrently worked as a research engineer at the Center of Excellence in Wireless Technology, IIT Madras. 
 
 <p align="center">
-<img src="images/athindran_at_ias_princeton.jpg" width="350" class="center">
+<img src="images/highlight2.jpg" width="350" class="center">
 </p>
 
 &nbsp;[ CV ](PDFs/Athindran_CV_Feb10.pdf) &nbsp;&nbsp;&nbsp;[Github Profile ](https://github.com/athindran) &nbsp;&nbsp;&nbsp; [ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
