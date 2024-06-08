@@ -4,7 +4,7 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 <img src="images/highlight2.jpg" width="350" class="center">
 </p>
 
-&nbsp;[ CV ](PDFs/Athindran_CV_Feb10.pdf) &nbsp;&nbsp;&nbsp;[Github Profile ](https://github.com/athindran) &nbsp;&nbsp;&nbsp; [ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
+&nbsp;[ CV ](PDFs/Athindran_resume_June8.pdf) &nbsp;&nbsp;&nbsp;[Github Profile ](https://github.com/athindran) &nbsp;&nbsp;&nbsp; [ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
 
 ## Project pages
 
