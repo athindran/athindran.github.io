@@ -60,7 +60,5 @@ Back in my undergraduate days, I was crazy about tennis and represented the inst
 
 I was also into app development in my undergraduate days. I helped build android apps for the institute technical and cultural festivals, Shaastra and Saarang.
 
-I am big fan of all kinds of music and listen to all kinds of music from all different eras.
-
 ## Contact
 You can reach me through email at r[dot]athindran[at]gmail[dot]com.
