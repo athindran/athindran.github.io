@@ -16,7 +16,7 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 [Princeton ECE Pre-FPO](PDFs/Safety%20guarantees%20in%20control.pptx)
 
-[Princeton ECE General Exam Research presentation](PDFs/General_Exam_Spring__Copy_.pdf)
+[Princeton ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf)
 
 [Princeton ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)
 
