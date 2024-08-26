@@ -1,4 +1,4 @@
-                                      **<p style="text-align: right;">Et tu su muove</p>**
+                                                          __Et tu su muove__
 
 Hi. I am Athindran. I am currently a software engineer at Aurora innovation in Pittsburgh, PA. I was a sixth year PhD student in the department of Electrical Engineering at Princeton University. I am advised by Prof. Peter Ramadge. My current research is focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use various tools from classical control to enable these model-based safety filters to satisfy desirable properties such as smooth handover and robustness to imperfect physics-based models.
 
