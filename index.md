@@ -20,7 +20,9 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)
 
-[CSML Reading Group] (PDFs/CSML_reading_group_seminar_1.pdf)(PDFs/CSML_reading_seminar_2.pdf)
+[CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar_1.pdf)
+
+[CSML Reading Group GNN part 2](PDFs/CSML_reading_seminar_2.pdf)
 
 [ACC 2021](PDFs/ACC_2021_Athindran.pdf)
 
@@ -28,7 +30,7 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 ## Dumb Talks 😵‍💫
 
-
+[Evolution of language](PDFs/Evolution%20of%20Language.pptx)
 
 ## Journal Papers
 
