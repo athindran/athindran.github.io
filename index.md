@@ -14,9 +14,16 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 ## Talks
 
+### Control 
 [ECE Pre-FPO](PDFs/Safety%20guarantees%20in%20control.pptx)
 
 [ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf)
+
+[ACC 2021](PDFs/ACC_2021_Athindran.pdf)
+
+[CISS 2021](PDFs/CISS_2021_Athindran.pdf)
+
+### Graph neural network series
 
 [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)
 
@@ -24,11 +31,8 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 [CSML Reading Group GNN part 2](PDFs/CSML_reading_seminar2.pdf)
 
-[ACC 2021](PDFs/ACC_2021_Athindran.pdf)
 
-[CISS 2021](PDFs/CISS_2021_Athindran.pdf)
-
-## Dumb Talks 😵‍💫
+### Dumb Talks 😵‍💫
 
 [Evolution of language](PDFs/Evolution%20of%20Language.pptx)
 
