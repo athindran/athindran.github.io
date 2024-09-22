@@ -20,9 +20,9 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)
 
-[CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar_1.pdf)
+[CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar1.pdf)
 
-[CSML Reading Group GNN part 2](PDFs/CSML_reading_seminar_2.pdf)
+[CSML Reading Group GNN part 2](PDFs/CSML_reading_seminar2.pdf)
 
 [ACC 2021](PDFs/ACC_2021_Athindran.pdf)
 
