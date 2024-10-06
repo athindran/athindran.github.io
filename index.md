@@ -6,13 +6,13 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 [ Resume ](PDFs/Athindran_resume_Jul62024.pdf) 
 
-[Github Profile ](https://github.com/athindran) 
+[ Github Profile ](https://github.com/athindran) 
 
 [ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
 
 ## Project pages
 
-[Fast, smooth and safe](https://sites.google.com/view/fsslcss/home) &nbsp;&nbsp;
+[Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home) &nbsp;&nbsp;
 
 [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
@@ -44,7 +44,6 @@ For  full list, visit [Google Scholar](https://scholar.google.com/citations?user
 
 Implementation of a feature to improve longitudinal control of self-driving trucks
 
-
 **Research Intern, Nokia Bell Labs. June - Aug 2021**
 
 Reinforcement learning for a robotic arm
@@ -53,7 +52,7 @@ Reinforcement learning for a robotic arm
 
 Frequency assignment techniques and path loss models for rural environments.
 
-**Tech Intern, Google StreetView, May-August 2014**
+**Tech Intern, Google StreetView, May - August 2014**
 
 Carrier phase positioning with GPS to achieve centimeter accurate positioning of StreetView cars.
 
