@@ -20,7 +20,7 @@ Hi. I am Athindran. I am currently a software engineer at Aurora innovation in P
 
 ## Talks
 
-| Control   | Graph neural network series |
+| Control   | Graph NN series |
 | --------------------------------- | ---------------------------------- |
 | [ECE Pre-FPO](PDFs/Safety%20guarantees%20in%20control.pptx) | [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)  |
 | [ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf)  | [CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar1.pdf)  |
