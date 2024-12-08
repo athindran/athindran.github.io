@@ -44,7 +44,7 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 **Software Engineer, Control at Aurora Innovation. Oct 2023 - Present**
 
-Development and fail-safe testing of motion control/fault management techniques for tracking control of self-driving tractor-trailers
+Development and fail-safe testing of motion control/fault management techniques for control of self-driving tractor-trailers
 
 **Software Intern, Control at Aurora Innovation. May - Aug 2022**
 
