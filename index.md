@@ -1,6 +1,7 @@
 
 Hi. I am Athindran. I am currently a software engineer at Aurora innovation in Pittsburgh, PA. I was a sixth year PhD student in the department of Electrical Engineering at Princeton University. I am fortunate to be advised by Prof. Peter Ramadge. My current research is focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use various tools from classical control to enable these model-based safety filters to satisfy desirable properties such as smooth handover and robustness to imperfect physics-based models.
-My general research theme over the past few years is on using optimization and ML methods with a strong control flavor.
+
+My general research flavor over the past few years is on using optimization and learning methods on control applications.
 
 <p align="center">
 <img src="images/profile.jpg" height="300" class="center">
