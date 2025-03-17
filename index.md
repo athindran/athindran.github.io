@@ -17,7 +17,7 @@ My general research flavor over the past few years is on using optimization and 
 
 ## Project pages
 
-[Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home) &nbsp;&nbsp;
+[Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home)&nbsp;&nbsp;
 
 [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
@@ -71,4 +71,4 @@ Back in my undergraduate days, I was crazy about tennis and represented the inst
 I was also into app development in my undergraduate days. I helped build android apps for the institute technical and cultural festivals, Shaastra and Saarang.
 
 ## Contact
-You can reach me through email at r[dot]athindran[at]gmail[dot]com.
+You can reach me through email at r[dot]athindran[at]gmail[dot]com
