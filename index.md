@@ -42,9 +42,11 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 ## Work Experience
 
-**Software Engineer, Control at Aurora Innovation. Oct 2023 - Present**
+**Software Engineer, Action - Control and Behavior Planning at Aurora Innovation. Oct 2023 - Present**
 
 Development and fail-safe testing of motion control/fault management techniques for control of self-driving tractor-trailers
+
+Machine learning modeling for motion planning of self-driving vehicles
 
 **Software Intern, Control at Aurora Innovation. May - Aug 2022**
 
