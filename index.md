@@ -5,7 +5,7 @@ Hi. I am Athindran. I am currently a motion planning software engineer at Aurora
 <img src="images/profile.jpg" height="300" class="center">
 </p>
 
-[ Resume ](PDFs/Athindran_resume_Jul62024.pdf) 
+[ Resume ](PDFs/Athindran_cv_apr252025.pdf) 
 
 [ Github Profile ](https://github.com/athindran) 
 
