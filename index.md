@@ -9,7 +9,7 @@ Hi. I am Athindran. I am currently a motion planning software engineer at Aurora
 
 [ Github Profile ](https://github.com/athindran) 
 
-[ Google Scholar ](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
+[ Google Scholar ](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)
 
 [Old Website](https://sites.google.com/site/athindranrameshkumar/home)
 
@@ -38,7 +38,7 @@ Hi. I am Athindran. I am currently a motion planning software engineer at Aurora
 2. Athindran Ramesh Kumar\*, Sulin Liu\*, Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge. “ProBF: Probabilistic Safety Certificates with Barrier Functions.” Presented at SafeRL workshop at NeurIPS 2021. [Link](https://sites.google.com/view/probf/home)
 3. Athindran Ramesh Kumar, Balaraman Ravindran, and Anand Raghunathan. “Pack and detect: Fast object detection in videos using region-of-interest packing.” Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3297001.3297020)  [Featured in TechXplore](https://techxplore.com/news/2018-09-fast-videos-region-of-interest.html)
 
-For a complete list, please visit [Google Scholar](https://scholar.google.com/citations?user=EFARMYIAAAAJ&hl=en)
+For a complete list, please visit [Google Scholar](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)
 
 ## Work Experience
 
