@@ -21,7 +21,7 @@ Hi. I am Athindran. I am currently a motion planning software engineer at Aurora
 
 ## Talks
 
-| Control theory and practice   | Deep learning series |
+| Control theory and practice   | Deep learning |
 | --------------------------------- | ---------------------------------- |
 | [ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf) | [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)  |
 | [ACC 2021](PDFs/ACC_2021_Athindran.pdf)  | [CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar1.pdf)  |
