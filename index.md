@@ -5,7 +5,7 @@ Hi. I am Athindran. I am currently a machine learning engineer in Behavior Plann
 <img src="images/profile.jpg" height="300" class="center">
 </p>
 
-[ Resume ](PDFs/Athindran_cv_jul62025.pdf) 
+[ Resume ](PDFs/2page_Resume_Sep13.pdf) 
 
 [ Github Profile ](https://github.com/athindran) 
 
