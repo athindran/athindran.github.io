@@ -1,3 +1,16 @@
-theme: minima
 title: Athindran Ramesh Kumar
 description: Software Engineer in self-driving
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://athindran.github.io" # the base hostname & protocol for your site
+
+# Theme Settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# This setting tells Minima where your main stylesheet is located
+sass:
+  style: compressed
+  load_paths:
+    - _sass

@@ -1,0 +1,50 @@
+// ==========================================================
+// _sass/custom-styles.scss
+// This file is imported AFTER the Minima styles, ensuring your 
+// rules override the theme defaults.
+// ==========================================================
+
+// --- 1. Base Body Styles (Font Size, Line Height, and Text Color) ---
+// Targeting the 'body' element sets the global default for the entire site.
+body {
+    // Override the base font size (12px is quite small, but effective for testing)
+    font-size: 11px;
+
+    // Adjust line spacing based on the new font size
+    line-height: 1.4; 
+    
+    // Override the color for the body and all paragraphs
+    color: #000000;
+}
+
+// --- 2. Headings Color Override ---
+// Ensure all headings use the specified color.
+h1, h2, h3, h4, h5, h6 {
+    color: #000000; /* Vibrant Blue heading color */
+}
+
+// --- 3. Link Color Override (General) ---
+// Override the color for ALL links across the site (posts, pages, etc.)
+a {
+    color: #0046cc; // Standard blue color for general links
+    
+    &:hover { 
+        color: #00b6cc; // A darker blue on hover
+    }
+}
+
+.content-container, .wrapper {
+    // The default Minima padding often creates the appearance of side margins.
+    // The Minima default for small screens is often padding: 2rem 1rem.
+    // For wider screens, it uses a media query, typically adjusting based on 
+    // the $spacing-unit variable.
+
+    // To increase the 'margin' (by reducing padding) on the content:
+    padding-left: 0.5rem;  // Reduce left padding
+    padding-right: 0.5rem; // Reduce right padding
+
+    // If you want a fixed width without changing $content-width
+    // max-width: 900px; // Use a specific max-width
+    // margin-left: auto;
+    // margin-right: auto;
+}
