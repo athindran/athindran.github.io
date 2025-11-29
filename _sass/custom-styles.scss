@@ -32,3 +32,34 @@ a {
         color: #00b6cc; // A darker blue on hover
     }
 }
+
+.content-container, .wrapper {
+    // The default Minima padding often creates the appearance of side margins.
+    // The Minima default for small screens is often padding: 2rem 1rem.
+    // For wider screens, it uses a media query, typically adjusting based on 
+    // the $spacing-unit variable.
+
+    // To increase the 'margin' (by reducing padding) on the content:
+    padding-left: 0.5rem;  // Reduce left padding
+    padding-right: 0.5rem; // Reduce right padding
+
+    // If you want a fixed width without changing $content-width
+    // max-width: 900px; // Use a specific max-width
+    // margin-left: auto;
+    // margin-right: auto;
+}
+
+.post-content,
+.page-content {
+    p {
+        // Apply justification to standard paragraph text
+        text-align: justify;
+    }
+
+    // Apply justification to list items if they contain long text
+    ul, ol {
+        li {
+            text-align: justify;
+        }
+    }
+}
