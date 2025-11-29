@@ -1,3 +1,18 @@
-theme: minima
 title: Athindran Ramesh Kumar
 description: Software Engineer in self-driving
+
+# Theme Settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima-specific settings (Optional: for skins, social links, etc.)
+minima:
+  skin: dark
+
+# This setting tells Minima where your main stylesheet is located
+sass:
+  style: compressed
+  load_paths:
+    - _sass

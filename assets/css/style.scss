@@ -1,10 +1,29 @@
-@import "{{ site.theme }}";
+@import "minima";
 
-body {
-  font-family: Arial, sans-serif;
-  color: #333333;
+/*
+  -----------------------------------------
+  YOUR CUSTOM CSS OVERRIDES START HERE
+  -----------------------------------------
+*/
+
+// Example: Change the site title color
+.site-title a {
+    color: #cc0000; /* A noticeable red color */
 }
 
-h1 {
-  color: #0066cc; 
+// Example: Increase line height for better readability
+.post-content p {
+    line-height: 1.8;
 }
+
+// Example: Add a border around the footer
+.footer-col-wrapper {
+    border-top: 1px solid #e8e8e8;
+    padding-top: 20px;
+}
+
+// Override the variable for link color
+$brand-color: #0088AA; 
+
+// Override the variable for the main site background
+$background-color: #f5f5f5;
