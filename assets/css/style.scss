@@ -1,31 +1,5 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-// Targeting the body element to globally reduce the base font size.
-// Minima defaults usually result in 16px. 
-// 0.9em or 60% will make it slightly smaller (e.g., ~14.4px).
-body {
-    font-size: 60%; 
-    
-    // You can also adjust the line height if the text looks too cramped
-    line-height: 1.5;
-}
-
-
-// Override the color for the body and all paragraphs
-body,
-p {
-    color: #1a1a1a; /* Your desired dark gray color */
-}
-
-// Override the color for all headings
-h1, h2, h3, h4, h5, h6 {
-    color: #333333; /* Your desired heading color */
-}
-
-// Override the color for all links
-a {
-    color: #007bff; /* Your desired blue link color */
-}
+@import "minima";
+@import "custom-styles"; 
