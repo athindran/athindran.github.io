@@ -8,13 +8,13 @@
 // Targeting the 'body' element sets the global default for the entire site.
 body {
     // Override the base font size (12px is quite small, but effective for testing)
-    font-size: 12px;
+    font-size: 13px;
 
     // Adjust line spacing based on the new font size
     line-height: 1.4; 
     
     // Override the color for the body and all paragraphs
-    color: #aa1a1a; /* Dark Reddish-Brown color */
+    color: #000000;
 }
 
 // --- 2. Headings Color Override ---
@@ -29,7 +29,7 @@ a {
     color: #0066cc; // Standard blue color for general links
     
     &:hover { 
-        color: #0050a0; // A darker blue on hover
+        color: #0000a0; // A darker blue on hover
     }
 }
 
