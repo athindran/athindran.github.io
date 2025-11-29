@@ -34,22 +34,22 @@ Prior research work focused on an eclectic mix of topics ranging from computer v
 
 ## Journal Papers
 
-1. A. R. Kumar, K. -C. Hsu, P. J. Ramadge and J. F. Fisac, "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming," in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3292132 [Link](https://sites.google.com/view/fsslcss/home)
-2. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, Location Hash: Private Proximity Detection Using Partial GPS Information, IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link](http://ieeexplore.ieee.org/document/7855590/)
+1. A. R. Kumar, K. -C. Hsu, P. J. Ramadge and J. F. Fisac, "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming," in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3292132 [Link to paper](https://sites.google.com/view/fsslcss/home)
+2. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, Location Hash: Private Proximity Detection Using Partial GPS Information, IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link to paper](http://ieeexplore.ieee.org/document/7855590/)
 
 ## Conference and Workshop Papers
 
-1. Ting-Han Fan, Athindran Ramesh Kumar, Peter J. Ramadge. “Safety Control for Prime Focus Spectrograph.” In 2022 56th Annual Conference on Information Sciences and Systems (CISS) (pp. 269-274). IEEE [Link](https://ieeexplore.ieee.org/document/9751172)
-2. Athindran Ramesh Kumar\*, Sulin Liu\*, Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge. “ProBF: Probabilistic Safety Certificates with Barrier Functions.” Presented at SafeRL workshop at NeurIPS 2021. [Link](https://sites.google.com/view/probf/home)
+1. Ting-Han Fan, Athindran Ramesh Kumar, Peter J. Ramadge. “Safety Control for Prime Focus Spectrograph.” In 2022 56th Annual Conference on Information Sciences and Systems (CISS) (pp. 269-274). IEEE [Link to paper](https://ieeexplore.ieee.org/document/9751172)
+2. Athindran Ramesh Kumar\*, Sulin Liu\*, Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge. “ProBF: Probabilistic Safety Certificates with Barrier Functions.” Presented at SafeRL workshop at NeurIPS 2021. [Link to paper](https://sites.google.com/view/probf/home)
 3. Athindran Ramesh Kumar, Balaraman Ravindran, and Anand Raghunathan. “Pack and detect: Fast object detection in videos using region-of-interest packing.” Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3297001.3297020)  [Featured in TechXplore](https://techxplore.com/news/2018-09-fast-videos-region-of-interest.html)
 
 For a complete list, please visit [Google Scholar](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)
 
 ## Work Experience
 
-**Software Engineer, Action at Aurora Innovation. Oct 2023 - Present**
+**Software Engineer, Behavior Planning at Aurora Innovation. Oct 2023 - Present**
 
-Development and fail-safe testing of motion control/fault management techniques for control of self-driving tractor-trailers
+Development and fail-safe testing of motion control/fault management techniques for self-driving tractor-trailers
 
 Machine learning modeling for motion planning of self-driving vehicles
 
@@ -71,8 +71,7 @@ Carrier phase positioning with GPS to achieve centimeter accurate positioning of
 
 ## Outside Work
 
-Back in my undergraduate days, I was enthu about tennis and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also part of the gold medal winning team of Tapti hostel in Schroeter 2012.
-
+Back in my undergraduate days, I played quite a bit of tennis as a serious extra-curricular and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also part of the gold medal winning team of Tapti hostel in Schroeter 2012.
 I was also into app development in my undergraduate days. I helped build Android apps for the institute technical and cultural festivals, Shaastra and Saarang.
 
 ## Contact
