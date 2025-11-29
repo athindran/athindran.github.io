@@ -20,27 +20,15 @@ body {
 // --- 2. Headings Color Override ---
 // Ensure all headings use the specified color.
 h1, h2, h3, h4, h5, h6 {
-    color: #007bff; /* Vibrant Blue heading color */
+    color: #000bff; /* Vibrant Blue heading color */
 }
 
 // --- 3. Link Color Override (General) ---
 // Override the color for ALL links across the site (posts, pages, etc.)
 a {
-    color: #0066cc; // Standard blue color for general links
+    color: #0046cc; // Standard blue color for general links
     
     &:hover { 
-        color: #0000a0; // A darker blue on hover
-    }
-}
-
-// --- 4. Link Color Override (Specific Header Navigation) ---
-// This targets *only* the navigation links in the header if they need
-// a different style than the general 'a' tag above.
-.site-header .page-link {
-    color: #0066cc; // Standard blue color for links
-    
-    // Change the color when the user hovers over the link
-    &:hover { 
-        color: #0050a0; // A darker blue on hover
+        color: #00b6cc; // A darker blue on hover
     }
 }
