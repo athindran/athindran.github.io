@@ -1,27 +1,42 @@
-// Targeting the body element to globally reduce the base font size.
-// Minima defaults usually result in 16px. 
-// 0.9em or 60% will make it slightly smaller (e.g., ~14.4px).
+// ==========================================================
+// _sass/custom-styles.scss
+// This file is imported AFTER the Minima styles, ensuring your 
+// rules override the theme defaults.
+// ==========================================================
+
+// --- 1. Base Body Styles (Font Size, Line Height, and Text Color) ---
+// Targeting the 'body' element sets the global default for the entire site.
 body {
-    // Override the base font size for the entire document
+    // Override the base font size (12px is quite small, but effective for testing)
     font-size: 12px;
 
-    // You can also adjust the line height if the text looks too cramped
-    line-height: 1.4;
+    // Adjust line spacing based on the new font size
+    line-height: 1.4; 
+    
+    // Override the color for the body and all paragraphs
+    color: #aa1a1a; /* Dark Reddish-Brown color */
 }
 
-
-// Override the color for the body and all paragraphs
-body {
-    color: #aa1a1a; /* Your desired dark gray color */
-}
-
-// Override the color for all headings
+// --- 2. Headings Color Override ---
+// Ensure all headings use the specified color.
 h1, h2, h3, h4, h5, h6 {
-    color: #007bff; /* Your desired heading color */
+    color: #007bff; /* Vibrant Blue heading color */
 }
 
-// Override the color for all links
+// --- 3. Link Color Override (General) ---
+// Override the color for ALL links across the site (posts, pages, etc.)
 a {
+    color: #0066cc; // Standard blue color for general links
+    
+    &:hover { 
+        color: #0050a0; // A darker blue on hover
+    }
+}
+
+// --- 4. Link Color Override (Specific Header Navigation) ---
+// This targets *only* the navigation links in the header if they need
+// a different style than the general 'a' tag above.
+.site-header .page-link {
     color: #0066cc; // Standard blue color for links
     
     // Change the color when the user hovers over the link
