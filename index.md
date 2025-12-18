@@ -14,7 +14,7 @@ Hello, I am Athindran. I am currently a machine learning engineer in Behavior Pl
 
 I was a sixth-year PhD student in the Department of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by Prof. Peter Ramadge. My research was focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I utilize various tools, ranging from classical control to model-based optimization, to enable these filters to satisfy desirable properties such as smooth handover and robustness to imperfect models. My general research focus over the past few years has been on applying optimization and learning methods to control applications.
 
-<!-- Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT (Positioning, Navigation, and Timing). My primary expertise lies in control, deep learning, and robotics. I am therefore excited to continue to learn more about reinforcement learning because of the change in outlook it has brought to these areas. My research, though not primarily theoretical, is greatly enhanced by mathematical exposition that helps me understand the methods to the depth necessary. Often, I find it interesting to explore the engineering enhancements needed to bring it outside the research lab. -->
+Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT (Positioning, Navigation, and Timing). My primary expertise lies in control, deep learning, and robotics. I am therefore excited to continue to learn more about reinforcement learning because of the change in outlook it has brought to these areas. My research, though not primarily theoretical, is greatly enhanced by mathematical exposition that helps me understand the methods to the depth necessary. Often, I find it interesting to explore the engineering enhancements needed to bring it outside the research lab.
 
 [ Resume ](PDFs/2page_Resume_Sep13.pdf)&nbsp;&nbsp;        [ Github Profile ](https://github.com/athindran)&nbsp;&nbsp;       [ Google Scholar ](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)&nbsp;&nbsp;       [Old Website](https://sites.google.com/site/athindranrameshkumar/home)
 
@@ -42,6 +42,24 @@ I was a sixth-year PhD student in the Department of Electrical and Computer Engi
 3. Athindran Ramesh Kumar, Balaraman Ravindran, and Anand Raghunathan. “Pack and detect: Fast object detection in videos using region-of-interest packing.” Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3297001.3297020)  [Featured in TechXplore](https://techxplore.com/news/2018-09-fast-videos-region-of-interest.html)
 
 For a complete list, please visit [Google Scholar](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)
+
+## Teaching Assistant
+
+- UIUC ECE 456 - Introduction to GNSS systems/GPS - Organized and led the lab sessions as a single TA for the course.
+
+- UIUC ECE 210 - Introduction to Analog and Digital Signal Processing
+
+- PU ELE 364 - Machine Learning for Predictive Data Analytics
+
+- PU ELE 456 - Machine Learning and Pattern Recognition
+
+- PU SML 201 - Introduction to Data Science
+
+- PU EGR 153 - Foundations of Engineering Physics
+
+- PU ELE 203 - Introduction to Circuits
+
+- PU ELE 368 - Introduction to Wireless Communication Systems
 
 ## Work Experience
 
