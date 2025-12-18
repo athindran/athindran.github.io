@@ -16,7 +16,7 @@ I was a sixth-year PhD student in the Department of Electrical and Computer Engi
 
 Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT (Positioning, Navigation, and Timing). My primary expertise lies in control, deep learning, and robotics. I am therefore excited to continue to learn more about reinforcement learning because of the change in outlook it has brought to these areas. My research, though not primarily theoretical, is greatly enhanced by mathematical exposition that helps me understand the methods to the depth necessary. Often, I find it interesting to explore the engineering enhancements needed to bring it outside the research lab.
 
-[ Resume ](PDFs/2page_Resume_Sep13.pdf)&nbsp;&nbsp;        [ Github Profile ](https://github.com/athindran)&nbsp;&nbsp;       [ Google Scholar ](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)&nbsp;&nbsp;       [Old Website](https://sites.google.com/site/athindranrameshkumar/home)
+[ Resume ](PDFs/2page_Resume_Sep13.pdf)&nbsp;&nbsp;        [ Github Profile ](https://github.com/athindran)&nbsp;&nbsp;       [ Google Scholar ](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)&nbsp;&nbsp;
 
 ## Projects with Code
 
