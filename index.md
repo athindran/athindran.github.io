@@ -14,9 +14,9 @@ layout: home
   <p style="text-align:left">
     <a href="PDFs/Athindran_jan2_2026.pdf">Resume</a> /
     <a href="https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao">Google Scholar</a> /
-    <a href="https://github.com/athindran">Github</a>
-    <a href="www.linkedin.com/in/athindran-ramesh-kumar-33450132">LinkedIn</a>
-    <a href="https://x.com/athindran">Twitter</a>
+    <a href="https://github.com/athindran">Github</a> /
+    <a href="www.linkedin.com/in/athindran-ramesh-kumar-33450132">LinkedIn</a> /
+    <a href="https://x.com/athindran">Twitter</a> /
   </p>
   </td>
   <td style="border: none !important; padding:1%; width:15%; max-width:15%">
