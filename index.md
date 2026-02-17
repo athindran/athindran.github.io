@@ -24,6 +24,15 @@ layout: home
 </tbody>
 </table>
 
+<p>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io" alt="Twitter Badge"/>
+  </a>
+</p>
+
 ## Research
 
 My research was focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I utilize various tools, ranging from classical control to model-based optimization, to enable these filters to satisfy desirable properties such as smooth handover and robustness to imperfect models. My general research focus over the past few years has been on applying optimization and learning methods to control applications.
