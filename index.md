@@ -84,4 +84,4 @@ NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI
 Back in my undergraduate days, I played quite a bit of tennis as a serious extra-curricular and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also involved in app development during my undergraduate years. I helped build Android apps for the institute's technical and cultural festivals, Shaastra and Saarang.
 
 ## Contact
-You can reach me through email at r[dot]athindran[at]gmail[dot]com
+You can reach me through email at r[dot]athindran[at]gmail[dot]com or rameshkumarathindran[at]gmail[dot]com
