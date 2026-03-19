@@ -9,7 +9,7 @@ layout: home
 <tbody>
 <tr style="border: none !important; padding:0px">
   <td style="border: none !important; padding:0.1%; width:83%">
-      Hello, I am Athindran. I am currently a machine learning engineer in Behavior Planning at Aurora Innovation in Pittsburgh, PA. I was a sixth-year PhD student in the Department of Electrical and Computer Engineering at Princeton University. I was fortunate to be advised by Prof. Peter Ramadge.
+      Hello, I am Athindran. I am currently a machine learning engineer in Behavior Planning at Aurora Innovation in Pittsburgh, PA. I was a sixth-year PhD student in the Department of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by Prof. Peter Ramadge.
 <br><br>
   <p style="text-align:left">
     <a href="PDFs/Athindran_jan2_2026.pdf">Resume</a> /
@@ -30,9 +30,7 @@ layout: home
 
 My research was focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I utilize various tools, ranging from classical control to model-based optimization, to enable these filters to satisfy desirable properties such as smooth handover and robustness to imperfect models. My general research focus over the past few years has been on applying optimization and learning methods to control applications.
 
-<!--
-Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). My primary expertise lies in control, deep learning, and robotics. I am therefore excited to  continue to learn more about reinforcement learning because of the change in outlook it has brought to these areas. My research, though not primarily theoretical, is greatly enhanced by mathematical exposition that helps me understand the methods to the depth necessary. I often find it interesting to explore the engineering enhancements needed to bring it out of the research lab.
--->
+Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). My primary expertise lies in control, deep learning, and robotics.
 
 ## Publications
 
@@ -70,7 +68,7 @@ NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI
 
 ## Teaching Assistant
 
-- UIUC ECE 456 - Introduction to GNSS systems/GPS - Organized and led the lab sessions as a single TA for the course.
+- UIUC ECE 456 - Introduction to GNSS systems/GPS
 - UIUC ECE 210 - Introduction to Analog and Digital Signal Processing
 - PU ELE 364 - Machine Learning for Predictive Data Analytics
 - PU ELE 456 - Machine Learning and Pattern Recognition
@@ -79,9 +77,5 @@ NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI
 - PU ELE 203 - Introduction to Circuits
 - PU ELE 368 - Introduction to Wireless Communication Systems
 
-## Outside Work
-
-Back in my undergraduate days, I played quite a bit of tennis as a serious extra-curricular and represented the institute at the inter-IIT sports meet and the inter-collegiate sports fest. I was also involved in app development during my undergraduate years. I helped build Android apps for the institute's technical and cultural festivals, Shaastra and Saarang.
-
 ## Contact
-You can reach me through email at r[dot]athindran[at]gmail[dot]com or rameshkumarathindran[at]gmail[dot]com
+You can reach me through email at rameshkumarathindran[at]gmail[dot]com
