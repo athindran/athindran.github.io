@@ -30,7 +30,7 @@ layout: home
 
 My research was focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I utilize various tools, ranging from classical control to model-based optimization, to enable these filters to satisfy desirable properties such as smooth handover and robustness to imperfect models. My general research focus over the past few years has been on applying optimization and learning methods to control applications.
 
-Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). My primary expertise lies in control, deep learning, and robotics.
+My primary expertise lies in *control, deep learning, and robotics*. Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). 
 
 ## Publications
 
