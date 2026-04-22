@@ -28,17 +28,17 @@ layout: home
 
 ## Research
 
-My research was focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I utilize various tools, ranging from classical control to model-based optimization, to enable these filters to satisfy desirable properties such as smooth handover and robustness to imperfect models. My general research focus over the past few years has been on applying optimization and learning methods to control applications.
+My research was focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I utilize various tools, ranging from classical control to model-based optimization, to ensure these filters satisfy desirable properties such as smooth handover and robustness to model imperfections. My general research focus over the past few years has been on applying optimization and learning methods to control applications.
 
 My primary expertise lies in *control, deep learning, and robotics*. Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). 
 
 ## Publications
 
-1. A. R. Kumar, K. -C. Hsu, P. J. Ramadge and J. F. Fisac, "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming," in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3292132 [Link to paper](https://sites.google.com/view/fsslcss/home)
-2. Liang Heng, Athindran Ramesh Kumar and Grace Xingxin Gao, Location Hash: Private Proximity Detection Using Partial GPS Information, IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link to paper](http://ieeexplore.ieee.org/document/7855590/)
-3. Ting-Han Fan, Athindran Ramesh Kumar, Peter J. Ramadge. “Safety Control for Prime Focus Spectrograph.” In 2022 56th Annual Conference on Information Sciences and Systems (CISS) (pp. 269-274). IEEE [Link to paper](https://ieeexplore.ieee.org/document/9751172)
-4. Athindran Ramesh Kumar\*, Sulin Liu\*, Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge. “ProBF: Probabilistic Safety Certificates with Barrier Functions.” Presented at SafeRL workshop at NeurIPS 2021. [Link to paper](https://sites.google.com/view/probf/home)
-5. Athindran Ramesh Kumar, Balaraman Ravindran, and Anand Raghunathan. “Pack and detect: Fast object detection in videos using region-of-interest packing.” Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3297001.3297020)  [Featured in TechXplore](https://techxplore.com/news/2018-09-fast-videos-region-of-interest.html)
+1. A. R. Kumar, K. -C. Hsu, P. J. Ramadge, and J. F. Fisac, "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming," in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3292132 [Link to paper](https://sites.google.com/view/fsslcss/home)
+2. Liang Heng, Athindran Ramesh Kumar, and Grace Xingxin Gao, "Location Hash: Private Proximity Detection Using Partial GPS Information", IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link to paper](http://ieeexplore.ieee.org/document/7855590/)
+3. Ting-Han Fan, Athindran Ramesh Kumar, Peter J. Ramadge. "Safety Control for Prime Focus Spectrograph." In 2022 56th Annual Conference on Information Sciences and Systems (CISS) (pp. 269-274). IEEE [Link to paper](https://ieeexplore.ieee.org/document/9751172)
+4. Athindran Ramesh Kumar\*, Sulin Liu\*, Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge. "ProBF: Probabilistic Safety Certificates with Barrier Functions." Presented at SafeRL workshop at NeurIPS 2021. [Link to paper](https://sites.google.com/view/probf/home)
+5. Athindran Ramesh Kumar, Balaraman Ravindran, and Anand Raghunathan. "Pack and detect: Fast object detection in videos using region-of-interest packing." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3297001.3297020)  [Featured in TechXplore](https://techxplore.com/news/2018-09-fast-videos-region-of-interest.html)
 
 For a complete list, please visit [Google Scholar](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)
 
@@ -52,6 +52,7 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 - Software Intern, Control at Aurora Innovation. May - Aug 2022
 - Research Intern, Nokia Bell Labs. June - Aug 2021
 - Research Engineer, Center of Excellence in Wireless Technology. April 2016 - June 2018
+- Tech Intern, Google Street View. May - August 2014
 
 ## Contact
 You can reach me through email at rameshkumarathindran[at]gmail[dot]com
