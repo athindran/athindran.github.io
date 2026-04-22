@@ -46,13 +46,13 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 [Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home)&nbsp;&nbsp;       [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
-% ## Talks and Presentations
+// ## Talks and Presentations
 
-%| Control theory and practice   | Deep learning |
-%| --------------------------------- | ---------------------------------- |
-%| [ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf) | [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)  |
-%| [ACC 2021](PDFs/ACC_2021_Athindran.pdf)  | [CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar1.pdf)  |
-%| [CISS 2021](PDFs/CISS_2021_Athindran.pdf) | [CSML Reading Group GNN part 2](PDFs/CSML_reading_seminar2.pdf)  |
+//| Control theory and practice   | Deep learning |
+//| --------------------------------- | ---------------------------------- |
+//| [ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf) | [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)  |
+//| [ACC 2021](PDFs/ACC_2021_Athindran.pdf)  | [CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar1.pdf)  |
+//| [CISS 2021](PDFs/CISS_2021_Athindran.pdf) | [CSML Reading Group GNN part 2](PDFs/CSML_reading_seminar2.pdf)  |
 
 ## Work Experience
 
