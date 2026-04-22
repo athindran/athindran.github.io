@@ -9,7 +9,7 @@ layout: home
 <tbody>
 <tr style="border: none !important; padding:0px">
   <td style="border: none !important; padding:0.1%; width:83%">
-      Hello, I am Athindran. I am currently a machine learning engineer in Behavior Planning at Aurora Innovation in Pittsburgh, PA. I was a sixth-year PhD student in the Department of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by Prof. Peter Ramadge.
+      Hello, I am Athindran. I am currently a machine learning engineer in Behavior Planning at Aurora Innovation in Pittsburgh, PA. I was a sixth-year PhD student in the Department of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by <a href="https://ece.princeton.edu/people/peter-j-ramadge">Prof. Peter Ramadge</a>.
 <br><br>
   <p style="text-align:left">
     <a href="PDFs/Athindran_jan2_2026.pdf">Resume</a> /
