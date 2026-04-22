@@ -46,36 +46,12 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 [Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home)&nbsp;&nbsp;       [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
-// ## Talks and Presentations
-
-//| Control theory and practice   | Deep learning |
-//| --------------------------------- | ---------------------------------- |
-//| [ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf) | [ORFE Deep Learning Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf)  |
-//| [ACC 2021](PDFs/ACC_2021_Athindran.pdf)  | [CSML Reading Group GNN part 1](PDFs/CSML_reading_group_seminar1.pdf)  |
-//| [CISS 2021](PDFs/CISS_2021_Athindran.pdf) | [CSML Reading Group GNN part 2](PDFs/CSML_reading_seminar2.pdf)  |
-
 ## Work Experience
 
 - ML Software Engineer, Behavior Planning at Aurora Innovation. Present
 - Software Intern, Control at Aurora Innovation. May - Aug 2022
 - Research Intern, Nokia Bell Labs. June - Aug 2021
 - Research Engineer, Center of Excellence in Wireless Technology. April 2016 - June 2018
-- Tech Intern, Google StreetView. May - August 2014
-
-## Reviewer Services
-
-NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI 2024, IEEE RA-L, IEEE TCST.
-
-## Teaching Assistant
-
-- UIUC ECE 456 - Introduction to GNSS systems/GPS
-- UIUC ECE 210 - Introduction to Analog and Digital Signal Processing
-- PU ELE 364 - Machine Learning for Predictive Data Analytics
-- PU ELE 456 - Machine Learning and Pattern Recognition
-- PU SML 201 - Introduction to Data Science
-- PU EGR 153 - Foundations of Engineering Physics
-- PU ELE 203 - Introduction to Circuits
-- PU ELE 368 - Introduction to Wireless Communication Systems
 
 ## Contact
 You can reach me through email at rameshkumarathindran[at]gmail[dot]com
