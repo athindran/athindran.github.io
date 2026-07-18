@@ -20,7 +20,7 @@ layout: home
   </p>
   </td>
   <td style="border: none !important; padding:1%; width:15%; max-width:15%">
-    <a href="images/pp_cropped.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/pp_cropped.jpg"></a>
+    <a href="images/pp_cropped.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/headshot.png"></a>
   </td>
 </tr>
 </tbody>
