@@ -15,8 +15,7 @@ layout: home
     <a href="PDFs/Athindran_jun28_2026.pdf">Resume</a> /
     <a href="https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao">Google Scholar</a> /
     <a href="https://github.com/athindran">Github</a> /
-    <a href="https://linkedin.com/in/athindran-ramesh-kumar-33450132">LinkedIn</a> /
-    <a href="https://x.com/athindran">Twitter</a> 
+    <a href="https://linkedin.com/in/athindran-ramesh-kumar-33450132">LinkedIn</a>
   </p>
   </td>
   <td style="border: none !important; padding:1%; width:15%; max-width:15%">
@@ -46,13 +45,28 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 [Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home)&nbsp;&nbsp;       [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
-## Work Experience
+## Talks and Presentations
 
-- ML Software Engineer, Behavior Planning at Aurora Innovation. Present
-- Software Intern, Control at Aurora Innovation. May - Aug 2022
-- Research Intern, Nokia Bell Labs. June - Aug 2021
-- Research Engineer, Center of Excellence in Wireless Technology. April 2016 - June 2018
-- Tech Intern, Google Street View. May - August 2014
+| Control x ML | Deep learning theory|
+| --------------------------------- | ---------------------------------- |
+|[ECE Pre-FPO](PDFs/Safety_guarantees_in_control.pptx)|[ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
+|[ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf) | [CSML Reading Group GNN - 1](PDFs/CSML_reading_group_seminar1.pdf) |
+|[CISS 2021](PDFs/CISS_2021_Athindran.pdf)| [CSML Reading Group GNN - 2](PDFs/CSML_reading_seminar2.pdf) |
+
+## Reviewer Services
+
+NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI (2024, 2026), IEEE RA-L, IEEE TCST, CDC 2026.
+
+## Teaching Assistant
+
+- UIUC ECE 456 - Introduction to GNSS systems/GPS
+- UIUC ECE 210 - Introduction to Analog and Digital Signal Processing
+- PU ELE 364 - Machine Learning for Predictive Data Analytics
+- PU ELE 456 - Machine Learning and Pattern Recognition
+- PU SML 201 - Introduction to Data Science
+- PU EGR 153 - Foundations of Engineering Physics
+- PU ELE 203 - Introduction to Circuits
+- PU ELE 368 - Introduction to Wireless Communication Systems
 
 ## Contact
 You can reach me through email at rameshkumarathindran[at]gmail[dot]com
