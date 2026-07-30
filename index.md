@@ -49,7 +49,7 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 | Control x ML | Deep learning theory|
 | --------------------------------- | ---------------------------------- |
-|[ECE General Exam](PDFs/General_Exam_Spring__Copy_.pdf)|[ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
+|[General exam - Online Learning for Control Systems](PDFs/General_Exam_Spring__Copy_.pdf)|[ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
 |[ACC 2021](PDFs/ACC_2021_Athindran.pdf)| [CSML Reading Group GNN - 1](PDFs/CSML_reading_group_seminar1.pdf) |
 |[CISS 2021](PDFs/CISS_2021_Athindran.pdf)| [CSML Reading Group GNN - 2](PDFs/CSML_reading_seminar2.pdf) |
 
