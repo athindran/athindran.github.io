@@ -51,7 +51,7 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 | --------------------------------- | ---------------------------------- |
 |[General exam ppt - Online Learning for Control Systems](PDFs/General_Exam_Spring__Copy_.pdf)|[ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
 |[ACC 2021 ppt - CVM Control](PDFs/ACC_2021_Athindran.pdf)| [CSML Reading Group - Graph Neural Nets - 1](PDFs/CSML_reading_group_seminar1.pdf) |
-|[CISS 2021 - DiffLoop](PDFs/CISS_2021_Athindran.pdf)| [CSML Reading Group - Graph Neural Nets - 2](PDFs/CSML_reading_seminar2.pdf) |
+|[CISS 2021 ppt - DiffLoop](PDFs/CISS_2021_Athindran.pdf)| [CSML Reading Group - Graph Neural Nets - 2](PDFs/CSML_reading_seminar2.pdf) |
 
 ## Reviewer Services
 
