@@ -59,6 +59,8 @@ NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI
 
 ## Teaching Service
 
+I served as a TA during my graduate study,
+
 - UIUC ECE 456 - Introduction to GNSS systems/GPS
 - UIUC ECE 210 - Introduction to Analog and Digital Signal Processing
 - PU ELE 364 - Machine Learning for Predictive Data Analytics
