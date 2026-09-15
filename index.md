@@ -26,13 +26,11 @@ layout: home
 </table>
 
 ## Research
+My research is on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use tools ranging from classical control to model-based optimization to ensure these filters satisfy desirable properties such as smooth handover and robustness to model imperfections. Over the past few years, my research has focused on applying optimization and learning methods to control applications.
 
-My research was focused on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use tools ranging from classical control to model-based optimization to ensure these filters satisfy desirable properties such as smooth handover and robustness to model imperfections. Over the past few years, my research has focused on applying optimization and learning methods to control applications.
-
-My primary expertise lies in *control, deep learning, and robotics*. Prior research work focused on an eclectic mix of topics ranging from computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). 
+My primary expertise lies in *control, deep learning, and robotics*. My prior research covered an eclectic mix of topics, including computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). 
 
 ## Publications
-
 1. A. R. Kumar, K. -C. Hsu, P. J. Ramadge, and J. F. Fisac, "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming," in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3292132 [Link to paper](https://sites.google.com/view/fsslcss/home)
 2. Liang Heng, Athindran Ramesh Kumar, and Grace Xingxin Gao, "Location Hash: Private Proximity Detection Using Partial GPS Information", IEEE Transactions on Aerospace and Electronic Systems. Dec. 2016. [Link to paper](http://ieeexplore.ieee.org/document/7855590/)
 3. Ting-Han Fan, Athindran Ramesh Kumar, Peter J. Ramadge. "Safety Control for Prime Focus Spectrograph." In 2022 56th Annual Conference on Information Sciences and Systems (CISS) (pp. 269-274). IEEE [Link to paper](https://ieeexplore.ieee.org/document/9751172)
@@ -42,11 +40,9 @@ My primary expertise lies in *control, deep learning, and robotics*. Prior resea
 For a complete list, please visit [Google Scholar](https://scholar.google.com/citations?user=KzDwYYMAAAAJ&hl=en&oi=ao)
 
 ## Projects with Code
-
 [Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home)&nbsp;&nbsp;       [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
 ## Talks and Presentations
-
 | Control x ML | Deep learning theory|
 | --------------------------------- | ---------------------------------- |
 |[General exam ppt - Online Learning for Control Systems](PDFs/General_Exam_Spring__Copy_.pdf)|[ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
@@ -54,13 +50,10 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 |[CISS 2021 ppt - DiffLoop](PDFs/CISS_2021_Athindran.pdf)| [CSML Reading Group - Graph Neural Nets - 2](PDFs/CSML_reading_seminar2.pdf) |
 
 ## Reviewer Services
-
 NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI (2024, 2026), IEEE RA-L, IEEE TCST, CDC 2026.
 
 ## Teaching Service
-
-I served as a TA during my graduate study,
-
+I served as a TA during my graduate studies:
 - UIUC ECE 456 - Introduction to GNSS systems/GPS
 - UIUC ECE 210 - Introduction to Analog and Digital Signal Processing
 - PU ELE 364 - Machine Learning for Predictive Data Analytics
