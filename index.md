@@ -9,7 +9,7 @@ layout: home
 <tbody>
 <tr style="border: none !important; padding:0px">
   <td style="border: none !important; padding:0.1%; width:83%">
-      Hello, I am Athindran. I am currently a machine learning engineer in Behavior Planning at Aurora Innovation in Pittsburgh, PA. I completed my PhD in ECE at Princeton University.
+      Hello, I am Athindran. I am a roboticist working on ML models at Aurora Innovation in Pittsburgh, PA. Previously, I completed my PhD in controls and robotics at Princeton University.
 <br><br>
   <p style="text-align:left">
     <a href="PDFs/Athindran_jun28_2026.pdf">Resume</a> /
@@ -57,7 +57,7 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI (2024, 2026), IEEE RA-L, IEEE TCST, CDC 2026.
 
-## Teaching Assistant
+## Teaching Service
 
 - UIUC ECE 456 - Introduction to GNSS systems/GPS
 - UIUC ECE 210 - Introduction to Analog and Digital Signal Processing
