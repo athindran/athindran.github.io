@@ -43,6 +43,7 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 [Fast, smooth, and safe](https://sites.google.com/view/fsslcss/home)&nbsp;&nbsp;       [Probabilistic Safety with GP](https://sites.google.com/view/probf/home)
 
 ## Talks and Presentations
+
 | Control x ML | Deep learning theory|
 | --------------------------------- | ---------------------------------- |
 |[General exam ppt - Online Learning for Control Systems](PDFs/General_Exam_Spring__Copy_.pdf)|[ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
