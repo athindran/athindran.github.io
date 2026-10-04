@@ -26,9 +26,9 @@ layout: home
 </table>
 
 ## Research
-My research is on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use tools ranging from classical control to model-based optimization to ensure these filters satisfy desirable properties such as smooth handover and robustness to model imperfections. Over the past few years, my research has focused on applying optimization and learning methods to control applications.
+My research is on designing safety fallback mechanisms for autonomous systems with provable guarantees. I use tools ranging from classical control to model-based optimization to ensure these filters satisfy desirable properties such as smooth handover and robustness to model imperfections. Over the past few years, my research has focused on applying optimization and learning methods to control applications, specifically robots and autonomous vehicles.
 
-My primary expertise lies in *control, deep learning, and robotics*. My prior research covered an eclectic mix of topics, including computer vision, deep learning, wireless communication, and PNT  (Positioning, Navigation, and Timing). 
+My primary expertise lies in *control, deep learning, and robotics*. My prior research work covered a range of topics, including computer vision, wireless communication, and PNT  (Positioning, Navigation, and Timing). 
 
 ## Publications
 1. A. R. Kumar, K. -C. Hsu, P. J. Ramadge, and J. F. Fisac, "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming", in IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3292132 [Link to paper](https://sites.google.com/view/fsslcss/home)
