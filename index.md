@@ -46,9 +46,10 @@ For a complete list, please visit [Google Scholar](https://scholar.google.com/ci
 
 | Control x ML | Deep learning theory|
 | --------------------------------- | ---------------------------------- |
-|[General exam ppt - Online Learning for Control Systems](PDFs/General_Exam_Spring__Copy_.pdf)|[ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
-|[ACC 2021 ppt - CVM Control](PDFs/ACC_2021_Athindran.pdf)| [CSML Reading Group - Graph Neural Nets - 1](PDFs/CSML_reading_group_seminar1.pdf) |
-|[CISS 2021 ppt - DiffLoop](PDFs/CISS_2021_Athindran.pdf)| [CSML Reading Group - Graph Neural Nets - 2](PDFs/CSML_reading_seminar2.pdf) |
+|[FPO - Online Safety Filtering](PDFs/ECE_FPO_public_version.pdf)| [ORFE DL Theory Seminar](PDFs/Deep_learning_seminar_athindran.pdf) |
+|[General exam ppt - Online Learning for Control Systems](PDFs/General_Exam_Spring__Copy_.pdf)| [CSML Reading Group - Graph Neural Nets - 1](PDFs/CSML_reading_group_seminar1.pdf) |
+|[ACC 2021 ppt - CVM Control](PDFs/ACC_2021_Athindran.pdf)| [CSML Reading Group - Graph Neural Nets - 2](PDFs/CSML_reading_seminar2.pdf) |
+|[CISS 2021 ppt - DiffLoop](PDFs/CISS_2021_Athindran.pdf)| |
 
 ## Reviewer Services
 NeurIPS (2022-2024), ICML (2023-2025), ICLR (2021, 2023, 2024), CISS 2022, IJCAI (2024, 2026), IEEE RA-L, IEEE TCST, CDC 2026.
